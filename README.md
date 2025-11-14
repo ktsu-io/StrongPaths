@@ -1,3 +1,11 @@
+# ⚠️ DEPRECATED
+
+**This project is no longer maintained.** Its functionality has been moved to [ktsu.Semantics](https://github.com/ktsu-dev/Semantics).
+
+Please migrate to the new library for continued support and updates.
+
+---
+
 # ktsu.StrongPaths
 
 > A library providing strong typing for common filesystem paths with compile-time feedback and runtime validation
